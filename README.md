@@ -7,7 +7,7 @@ This project uses an Artificial Neural Network ([ANN](http://pages.cs.wisc.edu/~
 
 To demo the application, download the jar and the Weights.txt files above. When first starting the application, a file picker window should appear. Navigate to the location where you saved the Weights.txt file and choose that file to begin.
 
-Check out my other project on my [website](https://vasan10591.github.io/BitesizeAI/WebsiteDat/index.html)
+Check out other interesting projects on my [website](https://vasan10591.github.io/BitesizeAI/WebsiteDat/index.html)!
 
 # Controling the Program
 
