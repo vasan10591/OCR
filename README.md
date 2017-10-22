@@ -1,4 +1,4 @@
-# OCR
+# Optical Character Recognition
 Using Supervised Learning to Recognise Handwriting
 
 ![alt tag](https://github.com/vasan10591/OCR/blob/master/img/OCR.png?raw=true)
